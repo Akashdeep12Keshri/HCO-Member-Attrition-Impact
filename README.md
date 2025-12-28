@@ -6,7 +6,7 @@ For a Health Care Organization (HCO), losing a member doesn’t just mean churn 
 Healthcare organizations want to predict annual healthcare cost per member to:
 
 * Identify high-cost members
-* Iprove budgeting & actuarial planning
+* Improve budgeting
 * Support proactive care management
 
 
